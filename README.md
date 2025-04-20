@@ -32,3 +32,18 @@ A photography community platform where photographers can showcase their work, di
    ```bash
    git clone https://github.com/your-username/photoverse.git
    cd photoverse
+
+### Project Structure
+photoverse/
+├── public/               # Static files
+├── src/
+│   ├── components/       # React components
+│   │   ├── Dashboard.jsx # User's private gallery
+│   │   ├── Explore.jsx   # Public community gallery
+│   │   ├── Upload.jsx    # Media upload form
+│   │   └── ...           # Other components
+│   ├── firebase.js       # Firebase configuration
+│   └── App.jsx           # Main application router
+├── .gitignore
+├── package.json
+└── README.md
