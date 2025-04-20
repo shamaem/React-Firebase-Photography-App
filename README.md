@@ -2,7 +2,7 @@
 
 A photography community platform where photographers can showcase their work, discover others' creations, and build their portfolios.
 
-![PhotoVerse Screenshot](https://i.imgur.com/sample-screenshot.png) <!-- Replace with actual screenshot -->
+
 
 ## 🚀 Features
 
@@ -10,7 +10,7 @@ A photography community platform where photographers can showcase their work, di
 - **Media Uploads** (Images with automatic compression)
 - **Personal Dashboard** (View all your uploads)
 - **Public Gallery** (Discover community creations)
-- **Responsive Design** (Works on mobile & desktop)
+
 
 ## 🛠 Tech Stack
 
@@ -18,7 +18,7 @@ A photography community platform where photographers can showcase their work, di
 - **Styling**: CSS-in-JS (inline styles)
 - **Authentication**: Firebase Auth
 - **Database**: Firebase Firestore
-- **Hosting**: (Optional: Firebase Hosting)
+
 
 ## 🔥 Getting Started
 
